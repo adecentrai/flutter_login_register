@@ -1,4 +1,4 @@
-# flutter_login_register
+# Flutter Login Register Sample App
 
 A new Flutter application.
 
